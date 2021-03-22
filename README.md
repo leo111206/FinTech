@@ -1,6 +1,5 @@
-> # FinTech
-
-> ## Introduce
+# FinTech
+## Introduce
 ### Name:李悅暄
 ### Class:巨資二B
 ### Student ID:08170237
