@@ -1,9 +1,9 @@
 > # FinTech
 
 > ## Introduce
-###
-
-
+### Name:李悅暄
+### Class:巨資二B
+### Student ID:08170237
 > ## HW
 * #### [HW1 What do you think of Cloud Computing ?](Hw/HW1/What_do_you_think_of_Cloud_Computing?.md)
 * #### [HW2 Build a Website using Amazon EC2 with LAMP.]
