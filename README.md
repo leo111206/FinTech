@@ -8,3 +8,15 @@
 * #### HW4 Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda.
 * #### HW5 Create a Database using Amazon RDS or Amazon DynamoDB.
 * #### HW6 Create a Docker Container or Build your own Project Services.
+# 🗂 Project
+## Teammate
+<h4>東吳大學巨資大二</h4> 
+<h6>周采葳 李悅暄 葉芯妤</h6>
+<h4>台大財金所碩一</h4>
+<h6>王珮倫 林鈺晉</h6>
+## Instructor
+<h4>台大資工 張智星老師</h4>
+## Teaching assistant
+<h4>東吳巨資 陳偉傑</h4>
+## Professional teacher
+<h4>詹益安</h4>
