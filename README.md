@@ -6,7 +6,7 @@
 * #### [HW2 Build a Website using Amazon EC2 with LAMP.](Hw/HW2.md)
 * #### [HW3 Build a Website using Amazon S3(Versioning) and AWS Amplify.](Hw/HW3.md)
 * #### [HW4 Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda.](Hw/HW4.md)
-* #### [HW5 Create a Database using Amazon RDS or Amazon DynamoDB.](FinTech/Hw/HW5.md)
+* #### [HW5](Hw/HW5.md)
 * #### HW6 Create a Docker Container or Build your own Project Services.
 # 🗂 Project
 ## Trainee
